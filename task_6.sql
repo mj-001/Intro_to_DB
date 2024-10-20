@@ -4,7 +4,7 @@ INSERT INTO customer (customer_id, customer_name, email, address)
     SET customer_id = 2,
         customer_name = 'Blessing Malik',
         email = 'bmalik@sandtech.com',
-        address = "124 Happiness Ave.";
+        address = "124 Happiness  Ave.";
 
 INSERT INTO customer (customer_id, customer_name, email, address)
     SET customer_id = 3,
