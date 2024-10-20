@@ -1,6 +1,6 @@
 USE alx_book_store;
 
-CREATE TABLE Customers (
+INSERT INTO customer (
     customer_id = 1,
     customer_name = Cole Baidoo,
     email = cbaidoo@sandtech.com,
